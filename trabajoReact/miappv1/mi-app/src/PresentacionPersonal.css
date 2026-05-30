@@ -1,0 +1,28 @@
+.color-titulo{
+    color: #68c2ff;
+    background-color: #282c34;
+    width: 500px;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5px;
+}
+.subtitulo {
+    color: #ffffff;
+    background-color: #282c34;
+    width: 500px;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5px;
+}
+.boton {
+    color: #282c34;
+    background-color: #a8dcff;
+    width: 500px;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}
