@@ -16,7 +16,9 @@
     outline-offset: 2px;
   }
 }
-
+.estilo-footer {
+  font-size: 12px;
+}
 .hero {
   position: relative;
 
@@ -182,3 +184,4 @@
     border-right-color: var(--border);
   }
 }
+
